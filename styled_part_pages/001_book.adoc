@@ -1,0 +1,30 @@
+= Professional Android development
+:toclevels: 4
+:toc-title:
+:linkcss:
+:sectnums:      
+:show-link-uri:
+:experimental:
+:icons:
+:chapter-label:
+:media: prepress
+:textselfreference: script
+:section-label: {sectnum} {secttitle}
+:chapter_pages_on_own_page:
+(c) 2009, 2016 vogella GmbH
+Version 11.1, 02.11.2016
+
+[abstract]
+This script give an introduction into basic Android development tasks.
+
+[[index]]
+= Index
+
+bla
+
+[[appendix]]
+[appendix]
+= Appendix
+
+blub
+

@@ -1,0 +1,4 @@
+rootProject.name = 'asciidoctor-gradle-test'
+
+include 'styled_part_pages'
+
